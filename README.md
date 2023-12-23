@@ -1,1 +1,1 @@
-https://rasikpa7.github.io/portfoliio/
+https://kshitiz-bhardwaj-portfolio.vercel.app
